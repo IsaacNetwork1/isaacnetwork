@@ -2850,7 +2850,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #87c5a4;
+				background-color: #007700;
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -3277,7 +3277,7 @@ input, select, textarea {
 			}
 
 			#header.alt.style6 .logo strong {
-				color: #87c5a4;
+				color: #007700;
 			}
 
 		body.is-preload #header.alt {
@@ -3508,7 +3508,7 @@ input, select, textarea {
 		}
 
 		#banner.style6:after {
-			background-color: #87c5a4;
+			background-color: #007700;
 		}
 
 		body.is-preload #banner:after {
